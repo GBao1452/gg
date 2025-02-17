@@ -227,6 +227,7 @@ body {
     border: none;
     background-color: transparent; 
     color: black; 
+    outline: 0;
 }
 
 .btc-bottom {
